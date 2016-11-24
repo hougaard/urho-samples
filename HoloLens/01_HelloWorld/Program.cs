@@ -45,7 +45,13 @@ namespace HelloWorld
 			moon.SetMaterial(Material.FromImage("Textures/Moon.jpg"));
 
 			// Run a an action to spin the Earth (5 degrees per second)
-			earthNode.RunActions(new RepeatForever(new RotateBy(duration: 1f, deltaAngleX: 0, deltaAngleY: -5, deltaAngleZ: 0)));
+			earthNode.RunActions(
+                new RepeatForever(
+                    new RotateBy(
+                        duration: 1f, 
+                        deltaAngleX: 0, 
+                        deltaAngleY: -50, 
+                        deltaAngleZ: 0)));
 		}
 
 		// For HL optical stabilization (optional)

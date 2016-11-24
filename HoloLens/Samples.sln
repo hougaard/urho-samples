@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_CognitiveServices", "07_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_HelloWorldAdvanced", "02_HelloWorldAdvanced\02_HelloWorldAdvanced.csproj", "{0CE4BC40-4D5D-4F85-86C0-B4A21C22B4C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example22", "Example22\Example22.csproj", "{3778BD27-9B6D-4AB3-9EAF-CA75B2A4CFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolographicApp1", "HolographicApp1\HolographicApp1.csproj", "{A947C7F0-5646-4D2E-A400-817A4D85C95E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -65,6 +69,18 @@ Global
 		{0CE4BC40-4D5D-4F85-86C0-B4A21C22B4C8}.Release|x86.ActiveCfg = Release|x86
 		{0CE4BC40-4D5D-4F85-86C0-B4A21C22B4C8}.Release|x86.Build.0 = Release|x86
 		{0CE4BC40-4D5D-4F85-86C0-B4A21C22B4C8}.Release|x86.Deploy.0 = Release|x86
+		{3778BD27-9B6D-4AB3-9EAF-CA75B2A4CFEC}.Debug|x86.ActiveCfg = Debug|x86
+		{3778BD27-9B6D-4AB3-9EAF-CA75B2A4CFEC}.Debug|x86.Build.0 = Debug|x86
+		{3778BD27-9B6D-4AB3-9EAF-CA75B2A4CFEC}.Debug|x86.Deploy.0 = Debug|x86
+		{3778BD27-9B6D-4AB3-9EAF-CA75B2A4CFEC}.Release|x86.ActiveCfg = Release|x86
+		{3778BD27-9B6D-4AB3-9EAF-CA75B2A4CFEC}.Release|x86.Build.0 = Release|x86
+		{3778BD27-9B6D-4AB3-9EAF-CA75B2A4CFEC}.Release|x86.Deploy.0 = Release|x86
+		{A947C7F0-5646-4D2E-A400-817A4D85C95E}.Debug|x86.ActiveCfg = Debug|x86
+		{A947C7F0-5646-4D2E-A400-817A4D85C95E}.Debug|x86.Build.0 = Debug|x86
+		{A947C7F0-5646-4D2E-A400-817A4D85C95E}.Debug|x86.Deploy.0 = Debug|x86
+		{A947C7F0-5646-4D2E-A400-817A4D85C95E}.Release|x86.ActiveCfg = Release|x86
+		{A947C7F0-5646-4D2E-A400-817A4D85C95E}.Release|x86.Build.0 = Release|x86
+		{A947C7F0-5646-4D2E-A400-817A4D85C95E}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -30,7 +30,7 @@ namespace CognitiveServices
 	{
 		//the key can be obtained for free here: https://www.microsoft.com/cognitive-services/en-us/computer-vision-api
 		//click on "Get started for free"
-		const string VisionApiKey = "YOUR KEY HERE";
+		const string VisionApiKey = "053f1863da064d62894dd2fe0f80a7f3";
 
 		Node busyIndicatorNode;
 		MediaCapture mediaCapture;
